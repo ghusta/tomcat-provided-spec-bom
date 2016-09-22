@@ -7,7 +7,7 @@ A Maven BOM to simplify dependencies management in your webapp.
 - Servlet 3.1 - [JSR 340](https://jcp.org/en/jsr/detail?id=340)
 - JSP 2.3 - [JSR 245](http://jcp.org/en/jsr/detail?id=245)
 - EL 3.0 - [JSR 341](http://jcp.org/en/jsr/detail?id=341)
-- WebSocket 1.1 [JSR 356](https://jcp.org/en/jsr/detail?id=356)
+- WebSocket 1.1 - [JSR 356](https://jcp.org/en/jsr/detail?id=356)
 
 The versions used are summarized here :
 [Apache Tomcat Versions](http://tomcat.apache.org/whichversion.html)
