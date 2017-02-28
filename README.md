@@ -1,12 +1,12 @@
-# Maven BOM for Tomcat 7.0 provided dependencies
+# Maven BOM for Tomcat 8.0 provided dependencies
 
 A Maven BOM to simplify dependencies management in your webapp.
 
 ## Provided specifications
 
-- Servlet 3.0 - [JSR 315](https://jcp.org/en/jsr/detail?id=315)
-- JSP 2.2 - [JSR 245](http://jcp.org/en/jsr/detail?id=245)
-- EL 2.2 - [JSR 245](http://jcp.org/en/jsr/detail?id=245)
+- Servlet 3.1 - [JSR 340](https://jcp.org/en/jsr/detail?id=340)
+- JSP 2.3 - [JSR 245](http://jcp.org/en/jsr/detail?id=245)
+- EL 3.0 - [JSR 341](http://jcp.org/en/jsr/detail?id=341)
 - WebSocket 1.1 - [JSR 356](https://jcp.org/en/jsr/detail?id=356)
 
 The versions used are summarized here :
@@ -21,7 +21,7 @@ The BOM must be imported as scope "import" with the "pom" type, in the dependenc
             <dependency>
                 <groupId>fr.husta.tomcat</groupId>
                 <artifactId>tomcat-provided-spec-bom</artifactId>
-                <version>7.0</version>
+                <version>8.0</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
