@@ -1,4 +1,4 @@
-# Maven BOM for Tomcat 8.0 provided dependencies
+# Maven BOM for Tomcat 8.5 provided dependencies
 
 A Maven BOM to simplify dependencies management in your webapp.
 
@@ -21,7 +21,7 @@ The BOM must be imported as scope "import" with the "pom" type, in the dependenc
             <dependency>
                 <groupId>fr.husta.tomcat</groupId>
                 <artifactId>tomcat-provided-spec-bom</artifactId>
-                <version>8.0</version>
+                <version>8.5</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>

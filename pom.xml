@@ -6,10 +6,10 @@
 
     <groupId>fr.husta.tomcat</groupId>
     <artifactId>tomcat-provided-spec-bom</artifactId>
-    <version>8.0</version>
+    <version>8.5</version>
     <packaging>pom</packaging>
 
-    <description>BOM for Apache Tomcat 8.0.x</description>
+    <description>BOM for Apache Tomcat 8.5.x</description>
 
     <inceptionYear>2016</inceptionYear>
 
