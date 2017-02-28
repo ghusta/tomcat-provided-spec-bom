@@ -11,7 +11,7 @@
 
     <description>BOM for Apache Tomcat 9.0.x</description>
 
-    <inceptionYear>2016</inceptionYear>
+    <inceptionYear>2017</inceptionYear>
 
     <dependencyManagement>
         <dependencies>
