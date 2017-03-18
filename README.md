@@ -13,6 +13,9 @@ A Maven BOM to simplify dependencies management in your webapp.
 The versions used are summarized here :
 [Apache Tomcat Versions](http://tomcat.apache.org/whichversion.html)
 
+Specifications used with Tomcat versions are detailed here :
+[Specifications](https://wiki.apache.org/tomcat/Specifications)
+
 ## Usage
 
 The BOM must be imported as scope "import" with the "pom" type, in the dependencyManagement section. 
