@@ -9,6 +9,7 @@
     <version>8.5</version>
     <packaging>pom</packaging>
 
+    <name>Maven BOM for Tomcat 8.5 provided dependencies</name>
     <description>BOM for Apache Tomcat 8.5.x</description>
 
     <inceptionYear>2016</inceptionYear>
