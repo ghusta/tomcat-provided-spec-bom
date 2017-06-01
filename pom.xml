@@ -9,7 +9,9 @@
     <version>9.0</version>
     <packaging>pom</packaging>
 
+    <name>Maven BOM for Tomcat 9.0 provided dependencies</name>
     <description>BOM for Apache Tomcat 9.0.x</description>
+    <url>https://tomcat.apache.org/tomcat-9.0-doc/</url>
 
     <inceptionYear>2017</inceptionYear>
 
@@ -19,7 +21,7 @@
             <dependency>
                 <groupId>javax.servlet</groupId>
                 <artifactId>javax.servlet-api</artifactId>
-                <version>4.0.0-b05</version>
+                <version>4.0.0-b06</version>
                 <scope>provided</scope>
             </dependency>
             <!-- JSP -->
