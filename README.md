@@ -43,3 +43,7 @@ Then, simply import the needed dependency without specifying the version.
 About the _"bill of materials"_ (BOM) : [Introduction to the Dependency Mechanism](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Importing_Dependencies)
 
 Another example of BOM usage with Spring Framework : http://platform.spring.io/platform/#quick-start
+
+## End Of Life (EOL) for Tomcat 8.0 
+
+[End of life for Apache Tomcat 8.0.x](https://tomcat.apache.org/tomcat-80-eol.html) planned for 30 June 2018.
