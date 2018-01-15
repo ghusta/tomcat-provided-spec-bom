@@ -9,8 +9,8 @@
     <version>8.0</version>
     <packaging>pom</packaging>
 
-    <name>Maven BOM for Tomcat 8.0 provided dependencies</name>
-    <description>BOM for Apache Tomcat 8.0.x</description>
+    <name>Maven BOM for Tomcat 8.0 provided dependencies (superseded by Tomcat 8.5)</name>
+    <description>BOM for Apache Tomcat 8.0.x (superseded by Tomcat 8.5)</description>
 
     <inceptionYear>2016</inceptionYear>
 
