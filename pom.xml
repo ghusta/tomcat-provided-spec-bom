@@ -49,7 +49,7 @@
             <dependency>
                 <groupId>javax.security.auth.message</groupId>
                 <artifactId>javax.security.auth.message-api</artifactId>
-                <version>1.1</version>
+                <version>1.1.1</version>
                 <scope>provided</scope>
             </dependency>
         </dependencies>
